@@ -120,7 +120,7 @@ export default function LoginPage() {
             <div className="text-center">
               <p className="text-base text-gray-600">
                 ¿No tienes cuenta?{' '}
-                <Link href="/register" className="text-blue-600 font-semibold text-base">
+                <Link href="/" className="text-blue-600 font-semibold text-base">
                   Regístrate aquí
                 </Link>
               </p>
