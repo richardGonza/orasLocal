@@ -390,6 +390,11 @@ Aplicación móvil de oración guiada con acceso gratuito a la Biblia RVR1960 y 
 - Audio storage: TBD (S3, Cloudinary, local)
 - Pagos: Stripe o MercadoPago
 
+## Futuras Mejoras (Post-MVP)
+- [ ] **Encapsular en Capacitor**: Convertir la aplicación web en una aplicación nativa para iOS y Android utilizando Capacitor para distribución en tiendas (App Store / Play Store).
+- [ ] **Modo Offline avanzado**: Caché completa de audios y textos bíblicos para uso sin conexión.
+- [ ] **Social**: Compartir versículos y oraciones con imágenes personalizadas en redes sociales.
+
 ---
 
 ## Notas Importantes
